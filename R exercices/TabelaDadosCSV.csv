@@ -1,0 +1,7 @@
+Pedido;Cliente;DtPedido;Entrega;Frete;Nome;Endereço;CEP;País;Cidade
+10248;VINET;04/07/96;01/08/96;R$32,38 ;Vins et alcools Chevalier;59 rue de l'Abbaye;51100;França;Reims
+10249;TOMSP;05/07/96;16/08/96;R$11,61 ;Toms Spezialitsten;Luisenstr. 48;44087;Alemanha;Münster
+10250;HANAR;08/07/96;05/08/96;R$65,83 ;Hanari Carnes;Rua do Paulo, 67;05454-876;Brasil;Rio de Janeiro
+10251;VICTE;08/07/96;05/08/96;R$41,34 ;Victuailles en stock;2, rue du Commerce;69004;França;Lyon
+10252;SUPRD;09/07/96;06/08/96;R$51,30 ;Supremes delices;Boulevard Tirou, 255;B-6000;Bélgica;Charleroi
+10253;HANAR;10/07/96;24/07/96;R$58,17 ;Hanari Carnes;Rua do Paço, 67;05454-876;Brasil;Rio de Janeiro
