@@ -1,0 +1,831 @@
+Pedido,Cliente,DtPedido,Entrega,Frete,Nome,Endereco,CEP,Pais,Cidade
+10248,VINET,04/07/1996,01/08/1996,R$ 32,38 ,Vins et alcools Chevalier,59 rue de l'Abbaye,51100,FranÁa,Reims
+10249,TOMSP,05/07/1996,16/08/1996,R$ 11,61 ,Toms SpezialitÑten,Luisenstr. 48,44087,Alemanha,MÅnster
+10250,HANAR,08/07/1996,05/08/1996,R$ 65,83 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10251,VICTE,08/07/1996,05/08/1996,R$ 41,34 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10252,SUPRD,09/07/1996,06/08/1996,R$ 51,30 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10253,HANAR,10/07/1996,24/07/1996,R$ 58,17 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10254,CHOPS,11/07/1996,08/08/1996,R$ 22,98 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+10255,RICSU,12/07/1996,09/08/1996,R$ 148,33 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10256,WELLI,15/07/1996,12/08/1996,R$ 13,97 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10257,HILAA,16/07/1996,13/08/1996,R$ 81,91 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10258,ERNSH,17/07/1996,14/08/1996,R$ 140,51 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10259,CENTC,18/07/1996,15/08/1996,R$ 3,25 ,Centro comercial Moctezuma,Sierras de Granada 9993,05022,Mexico,Mexico D.F.
+10260,OTTIK,19/07/1996,16/08/1996,R$ 55,09 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10261,QUEDE,19/07/1996,16/08/1996,R$ 3,05 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10262,RATTC,22/07/1996,19/08/1996,R$ 48,29 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10263,ERNSH,23/07/1996,20/08/1996,R$ 146,06 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10264,FOLKO,24/07/1996,21/08/1996,R$ 3,67 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10265,BLONP,25/07/1996,22/08/1996,R$ 55,28 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10266,WARTH,26/07/1996,06/09/1996,R$ 25,73 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10267,FRANK,29/07/1996,26/08/1996,R$ 208,58 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10268,GROSR,30/07/1996,27/08/1996,R$ 66,29 ,GROSELLA-Restaurante,5¶ Ave. Los Palos Grandes,1081,Venezuela,Caracas
+10269,WHITC,31/07/1996,14/08/1996,R$ 4,56 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10270,WARTH,01/08/1996,29/08/1996,R$ 136,54 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10271,SPLIR,01/08/1996,29/08/1996,R$ 4,54 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10272,RATTC,02/08/1996,30/08/1996,R$ 98,03 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10273,QUICK,05/08/1996,02/09/1996,R$ 76,07 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10274,VINET,06/08/1996,03/09/1996,R$ 6,01 ,Vins et alcools Chevalier,59 rue de l'Abbaye,51100,FranÁa,Reims
+10275,MAGAA,07/08/1996,04/09/1996,R$ 26,93 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10276,TORTU,08/08/1996,22/08/1996,R$ 13,84 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10277,MORGK,09/08/1996,06/09/1996,R$ 125,77 ,Morgenstern Gesundkost,Heerstr. 22,04179,Alemanha,Leipzig
+10278,BERGS,12/08/1996,09/09/1996,R$ 92,69 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10279,LEHMS,13/08/1996,10/09/1996,R$ 25,83 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10280,BERGS,14/08/1996,11/09/1996,R$ 8,98 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10281,ROMEY,14/08/1996,28/08/1996,R$ 2,94 ,Romero y tomillo,Gran V°a, 1,28001,Espanha,Madrid
+10282,ROMEY,15/08/1996,12/09/1996,R$ 12,69 ,Romero y tomillo,Gran V°a, 1,28001,Espanha,Madrid
+10283,LILAS,16/08/1996,13/09/1996,R$ 84,81 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10284,LEHMS,19/08/1996,16/09/1996,R$ 76,56 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10285,QUICK,20/08/1996,17/09/1996,R$ 76,83 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10286,QUICK,21/08/1996,18/09/1996,R$ 229,24 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10287,RICAR,22/08/1996,19/09/1996,R$ 12,76 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10288,REGGC,23/08/1996,20/09/1996,R$ 7,45 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10289,BSBEV,26/08/1996,23/09/1996,R$ 22,77 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10290,COMMI,27/08/1996,24/09/1996,R$ 79,70 ,ComÇrcio Mineiro,Av. dos Lus°adas, 23,05432-043,Brasil,S∆o Paulo
+10291,QUEDE,27/08/1996,24/09/1996,R$ 6,40 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10292,TRADH,28/08/1996,25/09/1996,R$ 1,35 ,TradiÁ∆o Hipermercados,Av. Inàs de Castro, 414,05634-030,Brasil,S∆o Paulo
+10293,TORTU,29/08/1996,26/09/1996,R$ 21,18 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10294,RATTC,30/08/1996,27/09/1996,R$ 147,26 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10295,VINET,02/09/1996,30/09/1996,R$ 1,15 ,Vins et alcools Chevalier,59 rue de l'Abbaye,51100,FranÁa,Reims
+10296,LILAS,03/09/1996,01/10/1996,R$ 0,12 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10297,BLONP,04/09/1996,16/10/1996,R$ 5,74 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10298,HUNGO,05/09/1996,03/10/1996,R$ 168,22 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10299,RICAR,06/09/1996,04/10/1996,R$ 29,76 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10300,MAGAA,09/09/1996,07/10/1996,R$ 17,68 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10301,WANDK,09/09/1996,07/10/1996,R$ 45,08 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10302,SUPRD,10/09/1996,08/10/1996,R$ 6,27 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10303,GODOS,11/09/1996,09/10/1996,R$ 107,83 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10304,TORTU,12/09/1996,10/10/1996,R$ 63,79 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10305,OLDWO,13/09/1996,11/10/1996,R$ 257,62 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10306,ROMEY,16/09/1996,14/10/1996,R$ 7,56 ,Romero y tomillo,Gran V°a, 1,28001,Espanha,Madrid
+10307,LONEP,17/09/1996,15/10/1996,R$ 0,56 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+10308,ANATR,18/09/1996,16/10/1996,R$ 1,61 ,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÛn 2222,05021,Mexico,Mexico D.F.
+10309,HUNGO,19/09/1996,17/10/1996,R$ 47,30 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+"10310,THEBI,20/09/1996,18/10/1996,R$ 17,52 ,The Big Cheese,""89 Jefferson Way Suite 2"",97201,EUA,Portland"
+10311,DUMON,20/09/1996,04/10/1996,R$ 24,69 ,Du monde entier,67, rue des Cinquante Otages,44000,FranÁa,Nantes
+10312,WANDK,23/09/1996,21/10/1996,R$ 40,26 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10313,QUICK,24/09/1996,22/10/1996,R$ 1,96 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10314,RATTC,25/09/1996,23/10/1996,R$ 74,16 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+"10315,ISLAT,26/09/1996,24/10/1996,R$ 41,76 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10316,RATTC,27/09/1996,25/10/1996,R$ 150,15 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10317,LONEP,30/09/1996,28/10/1996,R$ 12,69 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+"10318,ISLAT,01/10/1996,29/10/1996,R$ 4,73 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10319,TORTU,02/10/1996,30/10/1996,R$ 64,50 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10320,WARTH,03/10/1996,17/10/1996,R$ 34,57 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+"10321,ISLAT,03/10/1996,31/10/1996,R$ 3,43 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10322,PERIC,04/10/1996,01/11/1996,R$ 0,40 ,Pericles Comidas cl†sicas,Calle Dr. Jorge Cash 321,05033,Mexico,Mexico D.F.
+10323,KOENE,07/10/1996,04/11/1996,R$ 4,88 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10324,SAVEA,08/10/1996,05/11/1996,R$ 214,27 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10325,KOENE,09/10/1996,23/10/1996,R$ 64,86 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10326,BOLID,10/10/1996,07/11/1996,R$ 77,92 ,BÛlido Comidas preparadas,C/ Araquil, 67,28023,Espanha,Madrid
+10327,FOLKO,11/10/1996,08/11/1996,R$ 63,36 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10328,FURIB,14/10/1996,11/11/1996,R$ 87,03 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10329,SPLIR,15/10/1996,26/11/1996,R$ 191,67 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10330,LILAS,16/10/1996,13/11/1996,R$ 12,75 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10331,BONAP,16/10/1996,27/11/1996,R$ 10,19 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10332,MEREP,17/10/1996,28/11/1996,R$ 52,84 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10333,WARTH,18/10/1996,15/11/1996,R$ 0,59 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10334,VICTE,21/10/1996,18/11/1996,R$ 8,56 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10335,HUNGO,22/10/1996,19/11/1996,R$ 42,11 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10336,PRINI,23/10/1996,20/11/1996,R$ 15,51 ,Princesa Isabel Vinhos,Estrada da sa£de n. 58,1756,Portugal,Lisboa
+10337,FRANK,24/10/1996,21/11/1996,R$ 108,26 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10338,OLDWO,25/10/1996,22/11/1996,R$ 84,21 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10339,MEREP,28/10/1996,25/11/1996,R$ 15,66 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10340,BONAP,29/10/1996,26/11/1996,R$ 166,31 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10341,SIMOB,29/10/1996,26/11/1996,R$ 26,78 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+10342,FRANK,30/10/1996,13/11/1996,R$ 54,83 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10343,LEHMS,31/10/1996,28/11/1996,R$ 110,37 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10344,WHITC,01/11/1996,29/11/1996,R$ 23,29 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10345,QUICK,04/11/1996,02/12/1996,R$ 249,06 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10346,RATTC,05/11/1996,17/12/1996,R$ 142,08 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10347,FAMIA,06/11/1996,04/12/1996,R$ 3,10 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+10348,WANDK,07/11/1996,05/12/1996,R$ 0,78 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10349,SPLIR,08/11/1996,06/12/1996,R$ 8,63 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10350,LAMAI,11/11/1996,09/12/1996,R$ 64,19 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10351,ERNSH,11/11/1996,09/12/1996,R$ 162,33 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10352,FURIB,12/11/1996,26/11/1996,R$ 1,30 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10353,PICCO,13/11/1996,11/12/1996,R$ 360,63 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10354,PERIC,14/11/1996,12/12/1996,R$ 53,80 ,Pericles Comidas cl†sicas,Calle Dr. Jorge Cash 321,05033,Mexico,Mexico D.F.
+"10355,AROUT,15/11/1996,13/12/1996,R$ 41,95 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10356,WANDK,18/11/1996,16/12/1996,R$ 36,71 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10357,LILAS,19/11/1996,17/12/1996,R$ 34,88 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10358,LAMAI,20/11/1996,18/12/1996,R$ 19,64 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10359,SEVES,21/11/1996,19/12/1996,R$ 288,43 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10360,BLONP,22/11/1996,20/12/1996,R$ 131,70 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10361,QUICK,22/11/1996,20/12/1996,R$ 183,17 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10362,BONAP,25/11/1996,23/12/1996,R$ 96,04 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10363,DRACD,26/11/1996,24/12/1996,R$ 30,54 ,Drachenblut Delikatessen,Walserweg 21,52066,Alemanha,Aachen
+10364,EASTC,26/11/1996,07/01/1997,R$ 71,97 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+10365,ANTON,27/11/1996,25/12/1996,R$ 22,00 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10366,GALED,28/11/1996,09/01/1997,R$ 10,14 ,Galer°a del gastronÛmo,Rambla de Catalu§a, 23,8022,Espanha,Barcelona
+10367,VAFFE,28/11/1996,26/12/1996,R$ 13,55 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10368,ERNSH,29/11/1996,27/12/1996,R$ 101,95 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10369,SPLIR,02/12/1996,30/12/1996,R$ 195,68 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10370,CHOPS,03/12/1996,31/12/1996,R$ 1,17 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+10371,LAMAI,03/12/1996,31/12/1996,R$ 0,45 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10372,QUEEN,04/12/1996,01/01/1997,R$ 890,78 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10373,HUNGO,05/12/1996,02/01/1997,R$ 124,12 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10374,WOLZA,05/12/1996,02/01/1997,R$ 3,94 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+"10375,HUNGC,06/12/1996,03/01/1997,R$ 20,12 ,Hungry Coyote Import Store,""City Center Plaza 516 Main St."",97827,EUA,Elgin"
+10376,MEREP,09/12/1996,06/01/1997,R$ 20,39 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10377,SEVES,09/12/1996,06/01/1997,R$ 22,21 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10378,FOLKO,10/12/1996,07/01/1997,R$ 5,44 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10379,QUEDE,11/12/1996,08/01/1997,R$ 45,03 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10380,HUNGO,12/12/1996,09/01/1997,R$ 35,03 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10381,LILAS,12/12/1996,09/01/1997,R$ 7,99 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10382,ERNSH,13/12/1996,10/01/1997,R$ 94,77 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+"10383,AROUT,16/12/1996,13/01/1997,R$ 34,24 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10384,BERGS,16/12/1996,13/01/1997,R$ 168,64 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10385,SPLIR,17/12/1996,14/01/1997,R$ 30,96 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10386,FAMIA,18/12/1996,01/01/1997,R$ 13,99 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+10387,SANTG,18/12/1996,15/01/1997,R$ 93,63 ,SantÇ Gourmet,Erling Skakkes gate 78,4110,Noruega,Stavern
+10388,SEVES,19/12/1996,16/01/1997,R$ 34,86 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10389,BOTTM,20/12/1996,17/01/1997,R$ 47,42 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10390,ERNSH,23/12/1996,20/01/1997,R$ 126,38 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10391,DRACD,23/12/1996,20/01/1997,R$ 5,45 ,Drachenblut Delikatessen,Walserweg 21,52066,Alemanha,Aachen
+10392,PICCO,24/12/1996,21/01/1997,R$ 122,46 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10393,SAVEA,25/12/1996,22/01/1997,R$ 126,56 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+"10394,HUNGC,25/12/1996,22/01/1997,R$ 30,34 ,Hungry Coyote Import Store,""City Center Plaza 516 Main St."",97827,EUA,Elgin"
+10395,HILAA,26/12/1996,23/01/1997,R$ 184,41 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10396,FRANK,27/12/1996,10/01/1997,R$ 135,35 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10397,PRINI,27/12/1996,24/01/1997,R$ 60,26 ,Princesa Isabel Vinhos,Estrada da sa£de n. 58,1756,Portugal,Lisboa
+10398,SAVEA,30/12/1996,27/01/1997,R$ 89,16 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10399,VAFFE,31/12/1996,14/01/1997,R$ 27,36 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10400,EASTC,01/01/1997,29/01/1997,R$ 83,93 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+10401,RATTC,01/01/1997,29/01/1997,R$ 12,51 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10402,ERNSH,02/01/1997,13/02/1997,R$ 67,88 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10403,ERNSH,03/01/1997,31/01/1997,R$ 73,79 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10404,MAGAA,03/01/1997,31/01/1997,R$ 155,97 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10405,LINOD,06/01/1997,03/02/1997,R$ 34,82 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10406,QUEEN,07/01/1997,18/02/1997,R$ 108,04 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10407,OTTIK,07/01/1997,04/02/1997,R$ 91,48 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10408,FOLIG,08/01/1997,05/02/1997,R$ 11,26 ,Folies gourmandes,184, chaussÇe de Tournai,59000,FranÁa,Lille
+"10409,OCEAN,09/01/1997,06/02/1997,R$ 29,83 ,OcÇano Atl†ntico Ltda.,""Ing. Gustavo Moncada 8585 Piso 20-A"",1010,Argentina,Buenos Aires"
+10410,BOTTM,10/01/1997,07/02/1997,R$ 2,40 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10411,BOTTM,10/01/1997,07/02/1997,R$ 23,65 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10412,WARTH,13/01/1997,10/02/1997,R$ 3,77 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10413,LAMAI,14/01/1997,11/02/1997,R$ 95,66 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10414,FAMIA,14/01/1997,11/02/1997,R$ 21,48 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+"10415,HUNGC,15/01/1997,12/02/1997,R$ 0,20 ,Hungry Coyote Import Store,""City Center Plaza 516 Main St."",97827,EUA,Elgin"
+10416,WARTH,16/01/1997,13/02/1997,R$ 22,72 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10417,SIMOB,16/01/1997,13/02/1997,R$ 70,29 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+10418,QUICK,17/01/1997,14/02/1997,R$ 17,55 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10419,RICSU,20/01/1997,17/02/1997,R$ 137,35 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10420,WELLI,21/01/1997,18/02/1997,R$ 44,12 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10421,QUEDE,21/01/1997,04/03/1997,R$ 99,23 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10422,FRANS,22/01/1997,19/02/1997,R$ 3,02 ,Franchi S.p.A.,Via Monte Bianco 34,10100,It†lia,Torino
+10423,GOURL,23/01/1997,06/02/1997,R$ 24,50 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10424,MEREP,23/01/1997,20/02/1997,R$ 370,61 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10425,LAMAI,24/01/1997,21/02/1997,R$ 7,93 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10426,GALED,27/01/1997,24/02/1997,R$ 18,69 ,Galer°a del gastronÛmo,Rambla de Catalu§a, 23,8022,Espanha,Barcelona
+10427,PICCO,27/01/1997,24/02/1997,R$ 31,29 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10428,REGGC,28/01/1997,25/02/1997,R$ 11,09 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10429,HUNGO,29/01/1997,12/03/1997,R$ 56,63 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10430,ERNSH,30/01/1997,13/02/1997,R$ 458,78 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10431,BOTTM,30/01/1997,13/02/1997,R$ 44,17 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10432,SPLIR,31/01/1997,14/02/1997,R$ 4,34 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10433,PRINI,03/02/1997,03/03/1997,R$ 73,83 ,Princesa Isabel Vinhos,Estrada da sa£de n. 58,1756,Portugal,Lisboa
+10434,FOLKO,03/02/1997,03/03/1997,R$ 17,92 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+"10435,CONSH,04/02/1997,18/03/1997,R$ 9,21 ,Consolidated Holdings,""Berkeley Gardens 12  Brewery"",WX1 6LT,Reino Unido,London"
+10436,BLONP,05/02/1997,05/03/1997,R$ 156,66 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10437,WARTH,05/02/1997,05/03/1997,R$ 19,97 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10438,TOMSP,06/02/1997,06/03/1997,R$ 8,24 ,Toms SpezialitÑten,Luisenstr. 48,44087,Alemanha,MÅnster
+10439,MEREP,07/02/1997,07/03/1997,R$ 4,07 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10440,SAVEA,10/02/1997,10/03/1997,R$ 86,53 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10441,OLDWO,10/02/1997,24/03/1997,R$ 73,02 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10442,ERNSH,11/02/1997,11/03/1997,R$ 47,94 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10443,REGGC,12/02/1997,12/03/1997,R$ 13,95 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10444,BERGS,12/02/1997,12/03/1997,R$ 3,50 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10445,BERGS,13/02/1997,13/03/1997,R$ 9,30 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10446,TOMSP,14/02/1997,14/03/1997,R$ 14,68 ,Toms SpezialitÑten,Luisenstr. 48,44087,Alemanha,MÅnster
+10447,RICAR,14/02/1997,14/03/1997,R$ 68,66 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10448,RANCH,17/02/1997,17/03/1997,R$ 38,82 ,Rancho grande,Av. del Libertador 900,1010,Argentina,Buenos Aires
+10449,BLONP,18/02/1997,18/03/1997,R$ 53,30 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10450,VICTE,19/02/1997,19/03/1997,R$ 7,23 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10451,QUICK,19/02/1997,05/03/1997,R$ 189,09 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10452,SAVEA,20/02/1997,20/03/1997,R$ 140,26 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+"10453,AROUT,21/02/1997,21/03/1997,R$ 25,36 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10454,LAMAI,21/02/1997,21/03/1997,R$ 2,74 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10455,WARTH,24/02/1997,07/04/1997,R$ 180,45 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10456,KOENE,25/02/1997,08/04/1997,R$ 8,12 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10457,KOENE,25/02/1997,25/03/1997,R$ 11,57 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10458,SUPRD,26/02/1997,26/03/1997,R$ 147,06 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10459,VICTE,27/02/1997,27/03/1997,R$ 25,09 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10460,FOLKO,28/02/1997,28/03/1997,R$ 16,27 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10461,LILAS,28/02/1997,28/03/1997,R$ 148,61 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+"10462,CONSH,03/03/1997,31/03/1997,R$ 6,17 ,Consolidated Holdings,""Berkeley Gardens 12  Brewery"",WX1 6LT,Reino Unido,London"
+10463,SUPRD,04/03/1997,01/04/1997,R$ 14,78 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10464,FURIB,04/03/1997,01/04/1997,R$ 89,00 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10465,VAFFE,05/03/1997,02/04/1997,R$ 145,04 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10466,COMMI,06/03/1997,03/04/1997,R$ 11,93 ,ComÇrcio Mineiro,Av. dos Lus°adas, 23,05432-043,Brasil,S∆o Paulo
+10467,MAGAA,06/03/1997,03/04/1997,R$ 4,93 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10468,KOENE,07/03/1997,04/04/1997,R$ 44,12 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10469,WHITC,10/03/1997,07/04/1997,R$ 60,18 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10470,BONAP,11/03/1997,08/04/1997,R$ 64,56 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10471,BSBEV,11/03/1997,08/04/1997,R$ 45,59 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10472,SEVES,12/03/1997,09/04/1997,R$ 4,20 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+"10473,ISLAT,13/03/1997,27/03/1997,R$ 16,37 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10474,PERIC,13/03/1997,10/04/1997,R$ 83,49 ,Pericles Comidas cl†sicas,Calle Dr. Jorge Cash 321,05033,Mexico,Mexico D.F.
+10475,SUPRD,14/03/1997,11/04/1997,R$ 68,52 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10476,HILAA,17/03/1997,14/04/1997,R$ 4,41 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10477,PRINI,17/03/1997,14/04/1997,R$ 13,02 ,Princesa Isabel Vinhos,Estrada da sa£de n. 58,1756,Portugal,Lisboa
+10478,VICTE,18/03/1997,01/04/1997,R$ 4,81 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10479,RATTC,19/03/1997,16/04/1997,R$ 708,95 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10480,FOLIG,20/03/1997,17/04/1997,R$ 1,35 ,Folies gourmandes,184, chaussÇe de Tournai,59000,FranÁa,Lille
+10481,RICAR,20/03/1997,17/04/1997,R$ 64,33 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10482,LAZYK,21/03/1997,18/04/1997,R$ 7,48 ,Lazy K Kountry Store,12 Orchestra Terrace,99362,EUA,Walla Walla
+10483,WHITC,24/03/1997,21/04/1997,R$ 15,28 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10484,BSBEV,24/03/1997,21/04/1997,R$ 6,88 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10485,LINOD,25/03/1997,08/04/1997,R$ 64,45 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10486,HILAA,26/03/1997,23/04/1997,R$ 30,53 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10487,QUEEN,26/03/1997,23/04/1997,R$ 71,07 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10488,FRANK,27/03/1997,24/04/1997,R$ 4,93 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10489,PICCO,28/03/1997,25/04/1997,R$ 5,29 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10490,HILAA,31/03/1997,28/04/1997,R$ 210,19 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10491,FURIB,31/03/1997,28/04/1997,R$ 16,96 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10492,BOTTM,01/04/1997,29/04/1997,R$ 62,89 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10493,LAMAI,02/04/1997,30/04/1997,R$ 10,64 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10494,COMMI,02/04/1997,30/04/1997,R$ 65,99 ,ComÇrcio Mineiro,Av. dos Lus°adas, 23,05432-043,Brasil,S∆o Paulo
+10495,LAUGB,03/04/1997,01/05/1997,R$ 4,65 ,Laughing Bacchus Wine Cellars,2319 Elm St.,V3F 2K1,Canad†,Vancouver
+10496,TRADH,04/04/1997,02/05/1997,R$ 46,77 ,TradiÁ∆o Hipermercados,Av. Inàs de Castro, 414,05634-030,Brasil,S∆o Paulo
+10497,LEHMS,04/04/1997,02/05/1997,R$ 36,21 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10498,HILAA,07/04/1997,05/05/1997,R$ 29,75 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10499,LILAS,08/04/1997,06/05/1997,R$ 102,02 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10500,LAMAI,09/04/1997,07/05/1997,R$ 42,68 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10501,BLAUS,09/04/1997,07/05/1997,R$ 8,85 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+10502,PERIC,10/04/1997,08/05/1997,R$ 69,32 ,Pericles Comidas cl†sicas,Calle Dr. Jorge Cash 321,05033,Mexico,Mexico D.F.
+10503,HUNGO,11/04/1997,09/05/1997,R$ 16,74 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10504,WHITC,11/04/1997,09/05/1997,R$ 59,13 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10505,MEREP,14/04/1997,12/05/1997,R$ 7,13 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10506,KOENE,15/04/1997,13/05/1997,R$ 21,19 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10507,ANTON,15/04/1997,13/05/1997,R$ 47,45 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10508,OTTIK,16/04/1997,14/05/1997,R$ 4,99 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10509,BLAUS,17/04/1997,15/05/1997,R$ 0,15 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+10510,SAVEA,18/04/1997,16/05/1997,R$ 367,63 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10511,BONAP,18/04/1997,16/05/1997,R$ 350,64 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10512,FAMIA,21/04/1997,19/05/1997,R$ 3,53 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+10513,WANDK,22/04/1997,03/06/1997,R$ 105,65 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10514,ERNSH,22/04/1997,20/05/1997,R$ 789,95 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10515,QUICK,23/04/1997,07/05/1997,R$ 204,47 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10516,HUNGO,24/04/1997,22/05/1997,R$ 62,78 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+"10517,NORTS,24/04/1997,22/05/1997,R$ 32,07 ,North/South,""South House 300 Queensbridge"",SW7 1RZ,Reino Unido,London"
+10518,TORTU,25/04/1997,09/05/1997,R$ 218,15 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10519,CHOPS,28/04/1997,26/05/1997,R$ 91,76 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+10520,SANTG,29/04/1997,27/05/1997,R$ 13,37 ,SantÇ Gourmet,Erling Skakkes gate 78,4110,Noruega,Stavern
+10521,CACTU,29/04/1997,27/05/1997,R$ 17,22 ,Cactus Comidas para llevar,Cerrito 333,1010,Argentina,Buenos Aires
+10522,LEHMS,30/04/1997,28/05/1997,R$ 45,33 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10523,SEVES,01/05/1997,29/05/1997,R$ 77,63 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10524,BERGS,01/05/1997,29/05/1997,R$ 244,79 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10525,BONAP,02/05/1997,30/05/1997,R$ 11,06 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10526,WARTH,05/05/1997,02/06/1997,R$ 58,59 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10527,QUICK,05/05/1997,02/06/1997,R$ 41,90 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10528,GREAL,06/05/1997,20/05/1997,R$ 3,35 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10529,MAISD,07/05/1997,04/06/1997,R$ 66,69 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+10530,PICCO,08/05/1997,05/06/1997,R$ 339,22 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+"10531,OCEAN,08/05/1997,05/06/1997,R$ 8,12 ,OcÇano Atl†ntico Ltda.,""Ing. Gustavo Moncada 8585 Piso 20-A"",1010,Argentina,Buenos Aires"
+10532,EASTC,09/05/1997,06/06/1997,R$ 74,46 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+10533,FOLKO,12/05/1997,09/06/1997,R$ 188,04 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10534,LEHMS,12/05/1997,09/06/1997,R$ 27,94 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10535,ANTON,13/05/1997,10/06/1997,R$ 15,64 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10536,LEHMS,14/05/1997,11/06/1997,R$ 58,88 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10537,RICSU,14/05/1997,28/05/1997,R$ 78,85 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10538,BSBEV,15/05/1997,12/06/1997,R$ 4,87 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10539,BSBEV,16/05/1997,13/06/1997,R$ 12,36 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10540,QUICK,19/05/1997,16/06/1997,R$ 1.007,64 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10541,HANAR,19/05/1997,16/06/1997,R$ 68,65 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10542,KOENE,20/05/1997,17/06/1997,R$ 10,95 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10543,LILAS,21/05/1997,18/06/1997,R$ 48,17 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10544,LONEP,21/05/1997,18/06/1997,R$ 24,91 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+10545,LAZYK,22/05/1997,19/06/1997,R$ 11,92 ,Lazy K Kountry Store,12 Orchestra Terrace,99362,EUA,Walla Walla
+10546,VICTE,23/05/1997,20/06/1997,R$ 194,72 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10547,SEVES,23/05/1997,20/06/1997,R$ 178,43 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10548,TOMSP,26/05/1997,23/06/1997,R$ 1,43 ,Toms SpezialitÑten,Luisenstr. 48,44087,Alemanha,MÅnster
+10549,QUICK,27/05/1997,10/06/1997,R$ 171,24 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10550,GODOS,28/05/1997,25/06/1997,R$ 4,32 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10551,FURIB,28/05/1997,09/07/1997,R$ 72,95 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10552,HILAA,29/05/1997,26/06/1997,R$ 83,22 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10553,WARTH,30/05/1997,27/06/1997,R$ 149,49 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10554,OTTIK,30/05/1997,27/06/1997,R$ 120,97 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10555,SAVEA,02/06/1997,30/06/1997,R$ 252,49 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10556,SIMOB,03/06/1997,15/07/1997,R$ 9,80 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+10557,LEHMS,03/06/1997,17/06/1997,R$ 96,72 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+"10558,AROUT,04/06/1997,02/07/1997,R$ 72,97 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10559,BLONP,05/06/1997,03/07/1997,R$ 8,05 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10560,FRANK,06/06/1997,04/07/1997,R$ 36,65 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10561,FOLKO,06/06/1997,04/07/1997,R$ 242,21 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10562,REGGC,09/06/1997,07/07/1997,R$ 22,95 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10563,RICAR,10/06/1997,22/07/1997,R$ 60,43 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10564,RATTC,10/06/1997,08/07/1997,R$ 13,75 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10565,MEREP,11/06/1997,09/07/1997,R$ 7,15 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10566,BLONP,12/06/1997,10/07/1997,R$ 88,40 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10567,HUNGO,12/06/1997,10/07/1997,R$ 33,97 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10568,GALED,13/06/1997,11/07/1997,R$ 6,54 ,Galer°a del gastronÛmo,Rambla de Catalu§a, 23,8022,Espanha,Barcelona
+10569,RATTC,16/06/1997,14/07/1997,R$ 58,98 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10570,MEREP,17/06/1997,15/07/1997,R$ 188,99 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10571,ERNSH,17/06/1997,29/07/1997,R$ 26,06 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10572,BERGS,18/06/1997,16/07/1997,R$ 116,43 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10573,ANTON,19/06/1997,17/07/1997,R$ 84,84 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10574,TRAIH,19/06/1997,17/07/1997,R$ 37,60 ,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,98034,EUA,Kirkland
+10575,MORGK,20/06/1997,04/07/1997,R$ 127,34 ,Morgenstern Gesundkost,Heerstr. 22,04179,Alemanha,Leipzig
+10576,TORTU,23/06/1997,07/07/1997,R$ 18,56 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10577,TRAIH,23/06/1997,04/08/1997,R$ 25,41 ,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,98034,EUA,Kirkland
+10578,BSBEV,24/06/1997,22/07/1997,R$ 29,60 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+"10579,LETSS,25/06/1997,23/07/1997,R$ 13,73 ,Let's Stop N Shop,""87 Polk St. Suite 5"",94117,EUA,San Francisco"
+10580,OTTIK,26/06/1997,24/07/1997,R$ 75,89 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10581,FAMIA,26/06/1997,24/07/1997,R$ 3,01 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+10582,BLAUS,27/06/1997,25/07/1997,R$ 27,71 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+10583,WARTH,30/06/1997,28/07/1997,R$ 7,28 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10584,BLONP,30/06/1997,28/07/1997,R$ 59,14 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10585,WELLI,01/07/1997,29/07/1997,R$ 13,41 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10586,REGGC,02/07/1997,30/07/1997,R$ 0,48 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10587,QUEDE,02/07/1997,30/07/1997,R$ 62,52 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10588,QUICK,03/07/1997,31/07/1997,R$ 194,67 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10589,GREAL,04/07/1997,01/08/1997,R$ 4,42 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10590,MEREP,07/07/1997,04/08/1997,R$ 44,77 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10591,VAFFE,07/07/1997,21/07/1997,R$ 55,92 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10592,LEHMS,08/07/1997,05/08/1997,R$ 32,10 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10593,LEHMS,09/07/1997,06/08/1997,R$ 174,20 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10594,OLDWO,09/07/1997,06/08/1997,R$ 5,24 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10595,ERNSH,10/07/1997,07/08/1997,R$ 96,78 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10596,WHITC,11/07/1997,08/08/1997,R$ 16,34 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10597,PICCO,11/07/1997,08/08/1997,R$ 35,12 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10598,RATTC,14/07/1997,11/08/1997,R$ 44,42 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10599,BSBEV,15/07/1997,26/08/1997,R$ 29,98 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+"10600,HUNGC,16/07/1997,13/08/1997,R$ 45,13 ,Hungry Coyote Import Store,""City Center Plaza 516 Main St."",97827,EUA,Elgin"
+10601,HILAA,16/07/1997,27/08/1997,R$ 58,30 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10602,VAFFE,17/07/1997,14/08/1997,R$ 2,92 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10603,SAVEA,18/07/1997,15/08/1997,R$ 48,77 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10604,FURIB,18/07/1997,15/08/1997,R$ 7,46 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10605,MEREP,21/07/1997,18/08/1997,R$ 379,13 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10606,TRADH,22/07/1997,19/08/1997,R$ 79,40 ,TradiÁ∆o Hipermercados,Av. Inàs de Castro, 414,05634-030,Brasil,S∆o Paulo
+10607,SAVEA,22/07/1997,19/08/1997,R$ 200,24 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10608,TOMSP,23/07/1997,20/08/1997,R$ 27,79 ,Toms SpezialitÑten,Luisenstr. 48,44087,Alemanha,MÅnster
+10609,DUMON,24/07/1997,21/08/1997,R$ 1,85 ,Du monde entier,67, rue des Cinquante Otages,44000,FranÁa,Nantes
+10610,LAMAI,25/07/1997,22/08/1997,R$ 26,78 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10611,WOLZA,25/07/1997,22/08/1997,R$ 80,65 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+10612,SAVEA,28/07/1997,25/08/1997,R$ 544,08 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10613,HILAA,29/07/1997,26/08/1997,R$ 8,11 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10614,BLAUS,29/07/1997,26/08/1997,R$ 1,93 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+10615,WILMK,30/07/1997,27/08/1997,R$ 0,75 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+10616,GREAL,31/07/1997,28/08/1997,R$ 116,53 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10617,GREAL,31/07/1997,28/08/1997,R$ 18,53 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10618,MEREP,01/08/1997,12/09/1997,R$ 154,68 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10619,MEREP,04/08/1997,01/09/1997,R$ 91,05 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10620,LAUGB,05/08/1997,02/09/1997,R$ 0,94 ,Laughing Bacchus Wine Cellars,2319 Elm St.,V3F 2K1,Canad†,Vancouver
+"10621,ISLAT,05/08/1997,02/09/1997,R$ 23,73 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10622,RICAR,06/08/1997,03/09/1997,R$ 50,97 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10623,FRANK,07/08/1997,04/09/1997,R$ 97,18 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10624,THECR,07/08/1997,04/09/1997,R$ 94,80 ,The Cracker Box,55 Grizzly Peak Rd.,59801,EUA,Butte
+10625,ANATR,08/08/1997,05/09/1997,R$ 43,90 ,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÛn 2222,05021,Mexico,Mexico D.F.
+10626,BERGS,11/08/1997,08/09/1997,R$ 138,69 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10627,SAVEA,11/08/1997,22/09/1997,R$ 107,46 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10628,BLONP,12/08/1997,09/09/1997,R$ 30,36 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10629,GODOS,12/08/1997,09/09/1997,R$ 85,46 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10630,KOENE,13/08/1997,10/09/1997,R$ 32,35 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10631,LAMAI,14/08/1997,11/09/1997,R$ 0,87 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10632,WANDK,14/08/1997,11/09/1997,R$ 41,38 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10633,ERNSH,15/08/1997,12/09/1997,R$ 477,90 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10634,FOLIG,15/08/1997,12/09/1997,R$ 487,38 ,Folies gourmandes,184, chaussÇe de Tournai,59000,FranÁa,Lille
+10635,MAGAA,18/08/1997,15/09/1997,R$ 47,46 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10636,WARTH,19/08/1997,16/09/1997,R$ 1,15 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10637,QUEEN,19/08/1997,16/09/1997,R$ 201,29 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10638,LINOD,20/08/1997,17/09/1997,R$ 158,44 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10639,SANTG,20/08/1997,17/09/1997,R$ 38,64 ,SantÇ Gourmet,Erling Skakkes gate 78,4110,Noruega,Stavern
+10640,WANDK,21/08/1997,18/09/1997,R$ 23,55 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10641,HILAA,22/08/1997,19/09/1997,R$ 179,61 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10642,SIMOB,22/08/1997,19/09/1997,R$ 41,89 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+10643,ALFKI,25/08/1997,22/09/1997,R$ 29,46 ,Alfreds Futterkiste,Obere Str. 57,12209,Alemanha,Berlin
+10644,WELLI,25/08/1997,22/09/1997,R$ 0,14 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10645,HANAR,26/08/1997,23/09/1997,R$ 12,41 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10646,HUNGO,27/08/1997,08/10/1997,R$ 142,33 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10647,QUEDE,27/08/1997,10/09/1997,R$ 45,54 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10648,RICAR,28/08/1997,09/10/1997,R$ 14,25 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10649,MAISD,28/08/1997,25/09/1997,R$ 6,20 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+10650,FAMIA,29/08/1997,26/09/1997,R$ 176,81 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+10651,WANDK,01/09/1997,29/09/1997,R$ 20,60 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10652,GOURL,01/09/1997,29/09/1997,R$ 7,14 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10653,FRANK,02/09/1997,30/09/1997,R$ 93,25 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10654,BERGS,02/09/1997,30/09/1997,R$ 55,26 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10655,REGGC,03/09/1997,01/10/1997,R$ 4,41 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10656,GREAL,04/09/1997,02/10/1997,R$ 57,15 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10657,SAVEA,04/09/1997,02/10/1997,R$ 352,69 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10658,QUICK,05/09/1997,03/10/1997,R$ 364,15 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10659,QUEEN,05/09/1997,03/10/1997,R$ 105,81 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+"10660,HUNGC,08/09/1997,06/10/1997,R$ 111,29 ,Hungry Coyote Import Store,""City Center Plaza 516 Main St."",97827,EUA,Elgin"
+10661,HUNGO,09/09/1997,07/10/1997,R$ 17,55 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10662,LONEP,09/09/1997,07/10/1997,R$ 1,28 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+10663,BONAP,10/09/1997,24/09/1997,R$ 113,15 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10664,FURIB,10/09/1997,08/10/1997,R$ 1,27 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10665,LONEP,11/09/1997,09/10/1997,R$ 26,31 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+10666,RICSU,12/09/1997,10/10/1997,R$ 232,42 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10667,ERNSH,12/09/1997,10/10/1997,R$ 78,09 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10668,WANDK,15/09/1997,13/10/1997,R$ 47,22 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+10669,SIMOB,15/09/1997,13/10/1997,R$ 24,39 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+10670,FRANK,16/09/1997,14/10/1997,R$ 203,48 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10671,FRANR,17/09/1997,15/10/1997,R$ 30,34 ,France restauration,54, rue Royale,44000,FranÁa,Nantes
+10672,BERGS,17/09/1997,01/10/1997,R$ 95,75 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10673,WILMK,18/09/1997,16/10/1997,R$ 22,76 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+"10674,ISLAT,18/09/1997,16/10/1997,R$ 0,90 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10675,FRANK,19/09/1997,17/10/1997,R$ 31,85 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10676,TORTU,22/09/1997,20/10/1997,R$ 2,01 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10677,ANTON,22/09/1997,20/10/1997,R$ 4,03 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10678,SAVEA,23/09/1997,21/10/1997,R$ 388,98 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10679,BLONP,23/09/1997,21/10/1997,R$ 27,94 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10680,OLDWO,24/09/1997,22/10/1997,R$ 26,61 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10681,GREAL,25/09/1997,23/10/1997,R$ 76,13 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10682,ANTON,25/09/1997,23/10/1997,R$ 36,13 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10683,DUMON,26/09/1997,24/10/1997,R$ 4,40 ,Du monde entier,67, rue des Cinquante Otages,44000,FranÁa,Nantes
+10684,OTTIK,26/09/1997,24/10/1997,R$ 145,63 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10685,GOURL,29/09/1997,13/10/1997,R$ 33,75 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10686,PICCO,30/09/1997,28/10/1997,R$ 96,50 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10687,HUNGO,30/09/1997,28/10/1997,R$ 296,43 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10688,VAFFE,01/10/1997,15/10/1997,R$ 299,09 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10689,BERGS,01/10/1997,29/10/1997,R$ 13,42 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10690,HANAR,02/10/1997,30/10/1997,R$ 15,80 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10691,QUICK,03/10/1997,14/11/1997,R$ 810,05 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10692,ALFKI,03/10/1997,31/10/1997,R$ 61,02 ,Alfreds Futterkiste,Obere Str. 57,12209,Alemanha,Berlin
+10693,WHITC,06/10/1997,20/10/1997,R$ 139,34 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10694,QUICK,06/10/1997,03/11/1997,R$ 398,36 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10695,WILMK,07/10/1997,18/11/1997,R$ 16,72 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+10696,WHITC,08/10/1997,19/11/1997,R$ 102,55 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10697,LINOD,08/10/1997,05/11/1997,R$ 45,52 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10698,ERNSH,09/10/1997,06/11/1997,R$ 272,47 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10699,MORGK,09/10/1997,06/11/1997,R$ 0,58 ,Morgenstern Gesundkost,Heerstr. 22,04179,Alemanha,Leipzig
+10700,SAVEA,10/10/1997,07/11/1997,R$ 65,10 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10701,HUNGO,13/10/1997,27/10/1997,R$ 220,31 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10702,ALFKI,13/10/1997,24/11/1997,R$ 23,94 ,Alfreds Futterkiste,Obere Str. 57,12209,Alemanha,Berlin
+10703,FOLKO,14/10/1997,11/11/1997,R$ 152,30 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10704,QUEEN,14/10/1997,11/11/1997,R$ 4,78 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10705,HILAA,15/10/1997,12/11/1997,R$ 3,52 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10706,OLDWO,16/10/1997,13/11/1997,R$ 135,63 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+"10707,AROUT,16/10/1997,30/10/1997,R$ 21,74 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+"10708,THEBI,17/10/1997,28/11/1997,R$ 2,96 ,The Big Cheese,""89 Jefferson Way Suite 2"",97201,EUA,Portland"
+10709,GOURL,17/10/1997,14/11/1997,R$ 210,80 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10710,FRANS,20/10/1997,17/11/1997,R$ 4,98 ,Franchi S.p.A.,Via Monte Bianco 34,10100,It†lia,Torino
+10711,SAVEA,21/10/1997,02/12/1997,R$ 52,41 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10712,HUNGO,21/10/1997,18/11/1997,R$ 89,93 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10713,SAVEA,22/10/1997,19/11/1997,R$ 167,05 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10714,SAVEA,22/10/1997,19/11/1997,R$ 24,49 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10715,BONAP,23/10/1997,06/11/1997,R$ 63,20 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10716,RANCH,24/10/1997,21/11/1997,R$ 22,57 ,Rancho grande,Av. del Libertador 900,1010,Argentina,Buenos Aires
+10717,FRANK,24/10/1997,21/11/1997,R$ 59,25 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10718,KOENE,27/10/1997,24/11/1997,R$ 170,88 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+"10719,LETSS,27/10/1997,24/11/1997,R$ 51,44 ,Let's Stop N Shop,""87 Polk St. Suite 5"",94117,EUA,San Francisco"
+10720,QUEDE,28/10/1997,11/11/1997,R$ 9,53 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10721,QUICK,29/10/1997,26/11/1997,R$ 48,92 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10722,SAVEA,29/10/1997,10/12/1997,R$ 74,58 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10723,WHITC,30/10/1997,27/11/1997,R$ 21,72 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10724,MEREP,30/10/1997,11/12/1997,R$ 57,75 ,Märe Paillarde,43 rue St. Laurent,H1J 1C3,Canad†,MontrÇal
+10725,FAMIA,31/10/1997,28/11/1997,R$ 10,83 ,Familia Arquibaldo,Rua OrÛs, 92,05442-030,Brasil,S∆o Paulo
+10726,EASTC,03/11/1997,17/11/1997,R$ 16,56 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+10727,REGGC,03/11/1997,01/12/1997,R$ 89,90 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10728,QUEEN,04/11/1997,02/12/1997,R$ 58,33 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10729,LINOD,04/11/1997,16/12/1997,R$ 141,06 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10730,BONAP,05/11/1997,03/12/1997,R$ 20,12 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10731,CHOPS,06/11/1997,04/12/1997,R$ 96,65 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+10732,BONAP,06/11/1997,04/12/1997,R$ 16,97 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10733,BERGS,07/11/1997,05/12/1997,R$ 110,11 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10734,GOURL,07/11/1997,05/12/1997,R$ 1,63 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+"10735,LETSS,10/11/1997,08/12/1997,R$ 45,97 ,Let's Stop N Shop,""87 Polk St. Suite 5"",94117,EUA,San Francisco"
+10736,HUNGO,11/11/1997,09/12/1997,R$ 44,10 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10737,VINET,11/11/1997,09/12/1997,R$ 7,79 ,Vins et alcools Chevalier,59 rue de l'Abbaye,51100,FranÁa,Reims
+10738,SPECD,12/11/1997,10/12/1997,R$ 2,91 ,SpÇcialitÇs du monde,25, rue Lauriston,75016,FranÁa,Paris
+10739,VINET,12/11/1997,10/12/1997,R$ 11,08 ,Vins et alcools Chevalier,59 rue de l'Abbaye,51100,FranÁa,Reims
+10740,WHITC,13/11/1997,11/12/1997,R$ 81,88 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+"10741,AROUT,14/11/1997,28/11/1997,R$ 10,96 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10742,BOTTM,14/11/1997,12/12/1997,R$ 243,73 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+"10743,AROUT,17/11/1997,15/12/1997,R$ 23,72 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10744,VAFFE,17/11/1997,15/12/1997,R$ 69,19 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10745,QUICK,18/11/1997,16/12/1997,R$ 3,52 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10746,CHOPS,19/11/1997,17/12/1997,R$ 31,43 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+10747,PICCO,19/11/1997,17/12/1997,R$ 117,33 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10748,SAVEA,20/11/1997,18/12/1997,R$ 232,55 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+"10749,ISLAT,20/11/1997,18/12/1997,R$ 61,53 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10750,WARTH,21/11/1997,19/12/1997,R$ 79,30 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10751,RICSU,24/11/1997,22/12/1997,R$ 130,79 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+"10752,NORTS,24/11/1997,22/12/1997,R$ 1,39 ,North/South,""South House 300 Queensbridge"",SW7 1RZ,Reino Unido,London"
+10753,FRANS,25/11/1997,23/12/1997,R$ 7,70 ,Franchi S.p.A.,Via Monte Bianco 34,10100,It†lia,Torino
+10754,MAGAA,25/11/1997,23/12/1997,R$ 2,38 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10755,BONAP,26/11/1997,24/12/1997,R$ 16,71 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10756,SPLIR,27/11/1997,25/12/1997,R$ 73,21 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10757,SAVEA,27/11/1997,25/12/1997,R$ 8,19 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10758,RICSU,28/11/1997,26/12/1997,R$ 138,17 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10759,ANATR,28/11/1997,26/12/1997,R$ 11,99 ,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÛn 2222,05021,Mexico,Mexico D.F.
+10760,MAISD,01/12/1997,29/12/1997,R$ 155,64 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+10761,RATTC,02/12/1997,30/12/1997,R$ 18,66 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10762,FOLKO,02/12/1997,30/12/1997,R$ 328,74 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10763,FOLIG,03/12/1997,31/12/1997,R$ 37,35 ,Folies gourmandes,184, chaussÇe de Tournai,59000,FranÁa,Lille
+10764,ERNSH,03/12/1997,31/12/1997,R$ 145,45 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10765,QUICK,04/12/1997,01/01/1998,R$ 42,74 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10766,OTTIK,05/12/1997,02/01/1998,R$ 157,55 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10767,SUPRD,05/12/1997,02/01/1998,R$ 1,59 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+"10768,AROUT,08/12/1997,05/01/1998,R$ 146,32 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10769,VAFFE,08/12/1997,05/01/1998,R$ 65,06 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10770,HANAR,09/12/1997,06/01/1998,R$ 5,32 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10771,ERNSH,10/12/1997,07/01/1998,R$ 11,19 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10772,LEHMS,10/12/1997,07/01/1998,R$ 91,28 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10773,ERNSH,11/12/1997,08/01/1998,R$ 96,43 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10774,FOLKO,11/12/1997,25/12/1997,R$ 48,20 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10775,THECR,12/12/1997,09/01/1998,R$ 20,25 ,The Cracker Box,55 Grizzly Peak Rd.,59801,EUA,Butte
+10776,ERNSH,15/12/1997,12/01/1998,R$ 351,53 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10777,GOURL,15/12/1997,29/12/1997,R$ 3,01 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10778,BERGS,16/12/1997,13/01/1998,R$ 6,79 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10779,MORGK,16/12/1997,13/01/1998,R$ 58,13 ,Morgenstern Gesundkost,Heerstr. 22,04179,Alemanha,Leipzig
+10780,LILAS,16/12/1997,30/12/1997,R$ 42,13 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10781,WARTH,17/12/1997,14/01/1998,R$ 73,16 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+10782,CACTU,17/12/1997,14/01/1998,R$ 1,10 ,Cactus Comidas para llevar,Cerrito 333,1010,Argentina,Buenos Aires
+10783,HANAR,18/12/1997,15/01/1998,R$ 124,98 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10784,MAGAA,18/12/1997,15/01/1998,R$ 70,09 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10785,GROSR,18/12/1997,15/01/1998,R$ 1,51 ,GROSELLA-Restaurante,5¶ Ave. Los Palos Grandes,1081,Venezuela,Caracas
+10786,QUEEN,19/12/1997,16/01/1998,R$ 110,87 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10787,LAMAI,19/12/1997,02/01/1998,R$ 249,93 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10788,QUICK,22/12/1997,19/01/1998,R$ 42,70 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10789,FOLIG,22/12/1997,19/01/1998,R$ 100,60 ,Folies gourmandes,184, chaussÇe de Tournai,59000,FranÁa,Lille
+10790,GOURL,22/12/1997,19/01/1998,R$ 28,23 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10791,FRANK,23/12/1997,20/01/1998,R$ 16,85 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10792,WOLZA,23/12/1997,20/01/1998,R$ 23,79 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+"10793,AROUT,24/12/1997,21/01/1998,R$ 4,52 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10794,QUEDE,24/12/1997,21/01/1998,R$ 21,49 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10795,ERNSH,24/12/1997,21/01/1998,R$ 126,66 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10796,HILAA,25/12/1997,22/01/1998,R$ 26,52 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10797,DRACD,25/12/1997,22/01/1998,R$ 33,35 ,Drachenblut Delikatessen,Walserweg 21,52066,Alemanha,Aachen
+"10798,ISLAT,26/12/1997,23/01/1998,R$ 2,33 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10799,KOENE,26/12/1997,06/02/1998,R$ 30,76 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10800,SEVES,26/12/1997,23/01/1998,R$ 137,44 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10801,BOLID,29/12/1997,26/01/1998,R$ 97,09 ,BÛlido Comidas preparadas,C/ Araquil, 67,28023,Espanha,Madrid
+10802,SIMOB,29/12/1997,26/01/1998,R$ 257,26 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+10803,WELLI,30/12/1997,27/01/1998,R$ 55,23 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10804,SEVES,30/12/1997,27/01/1998,R$ 27,33 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+"10805,THEBI,30/12/1997,27/01/1998,R$ 237,34 ,The Big Cheese,""89 Jefferson Way Suite 2"",97201,EUA,Portland"
+10806,VICTE,31/12/1997,28/01/1998,R$ 22,11 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10807,FRANS,31/12/1997,28/01/1998,R$ 1,36 ,Franchi S.p.A.,Via Monte Bianco 34,10100,It†lia,Torino
+10808,OLDWO,01/01/1998,29/01/1998,R$ 45,53 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10809,WELLI,01/01/1998,29/01/1998,R$ 4,87 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10810,LAUGB,01/01/1998,29/01/1998,R$ 4,33 ,Laughing Bacchus Wine Cellars,2319 Elm St.,V3F 2K1,Canad†,Vancouver
+10811,LINOD,02/01/1998,30/01/1998,R$ 31,22 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10812,REGGC,02/01/1998,30/01/1998,R$ 59,78 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10813,RICAR,05/01/1998,02/02/1998,R$ 47,38 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10814,VICTE,05/01/1998,02/02/1998,R$ 130,94 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10815,SAVEA,05/01/1998,02/02/1998,R$ 14,62 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10816,GREAL,06/01/1998,03/02/1998,R$ 719,78 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10817,KOENE,06/01/1998,20/01/1998,R$ 306,07 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10818,MAGAA,07/01/1998,04/02/1998,R$ 65,48 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10819,CACTU,07/01/1998,04/02/1998,R$ 19,76 ,Cactus Comidas para llevar,Cerrito 333,1010,Argentina,Buenos Aires
+10820,RATTC,07/01/1998,04/02/1998,R$ 37,52 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10821,SPLIR,08/01/1998,05/02/1998,R$ 36,68 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10822,TRAIH,08/01/1998,05/02/1998,R$ 7,00 ,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,98034,EUA,Kirkland
+10823,LILAS,09/01/1998,06/02/1998,R$ 163,97 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10824,FOLKO,09/01/1998,06/02/1998,R$ 1,23 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10825,DRACD,09/01/1998,06/02/1998,R$ 79,25 ,Drachenblut Delikatessen,Walserweg 21,52066,Alemanha,Aachen
+10826,BLONP,12/01/1998,09/02/1998,R$ 7,09 ,Blondel päre et fils,24, place KlÇber,67000,FranÁa,Strasbourg
+10827,BONAP,12/01/1998,26/01/1998,R$ 63,54 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10828,RANCH,13/01/1998,27/01/1998,R$ 90,85 ,Rancho grande,Av. del Libertador 900,1010,Argentina,Buenos Aires
+"10829,ISLAT,13/01/1998,10/02/1998,R$ 154,72 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10830,TRADH,13/01/1998,24/02/1998,R$ 81,83 ,TradiÁ∆o Hipermercados,Av. Inàs de Castro, 414,05634-030,Brasil,S∆o Paulo
+10831,SANTG,14/01/1998,11/02/1998,R$ 72,19 ,SantÇ Gourmet,Erling Skakkes gate 78,4110,Noruega,Stavern
+10832,LAMAI,14/01/1998,11/02/1998,R$ 43,26 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10833,OTTIK,15/01/1998,12/02/1998,R$ 71,49 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+10834,TRADH,15/01/1998,12/02/1998,R$ 29,78 ,TradiÁ∆o Hipermercados,Av. Inàs de Castro, 414,05634-030,Brasil,S∆o Paulo
+10835,ALFKI,15/01/1998,12/02/1998,R$ 69,53 ,Alfreds Futterkiste,Obere Str. 57,12209,Alemanha,Berlin
+10836,ERNSH,16/01/1998,13/02/1998,R$ 411,88 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10837,BERGS,16/01/1998,13/02/1998,R$ 13,32 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10838,LINOD,19/01/1998,16/02/1998,R$ 59,28 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10839,TRADH,19/01/1998,16/02/1998,R$ 35,43 ,TradiÁ∆o Hipermercados,Av. Inàs de Castro, 414,05634-030,Brasil,S∆o Paulo
+10840,LINOD,19/01/1998,02/03/1998,R$ 2,71 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10841,SUPRD,20/01/1998,17/02/1998,R$ 424,30 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10842,TORTU,20/01/1998,17/02/1998,R$ 54,42 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10843,VICTE,21/01/1998,18/02/1998,R$ 9,26 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10844,PICCO,21/01/1998,18/02/1998,R$ 25,22 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+10845,QUICK,21/01/1998,04/02/1998,R$ 212,98 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10846,SUPRD,22/01/1998,05/03/1998,R$ 56,46 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10847,SAVEA,22/01/1998,05/02/1998,R$ 487,57 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+"10848,CONSH,23/01/1998,20/02/1998,R$ 38,24 ,Consolidated Holdings,""Berkeley Gardens 12  Brewery"",WX1 6LT,Reino Unido,London"
+10849,KOENE,23/01/1998,20/02/1998,R$ 0,56 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10850,VICTE,23/01/1998,06/03/1998,R$ 49,19 ,Victuailles en stock,2, rue du Commerce,69004,FranÁa,Lyon
+10851,RICAR,26/01/1998,23/02/1998,R$ 160,55 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10852,RATTC,26/01/1998,09/02/1998,R$ 174,05 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10853,BLAUS,27/01/1998,24/02/1998,R$ 53,83 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+10854,ERNSH,27/01/1998,24/02/1998,R$ 100,22 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10855,OLDWO,27/01/1998,24/02/1998,R$ 170,97 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10856,ANTON,28/01/1998,25/02/1998,R$ 58,43 ,Antonio Moreno Taquer°a,Mataderos  2312,05023,Mexico,Mexico D.F.
+10857,BERGS,28/01/1998,25/02/1998,R$ 188,85 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10858,LACOR,29/01/1998,26/02/1998,R$ 52,51 ,La corne d'abondance,67, avenue de l'Europe,78000,FranÁa,Versailles
+10859,FRANK,29/01/1998,26/02/1998,R$ 76,10 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10860,FRANR,29/01/1998,26/02/1998,R$ 19,26 ,France restauration,54, rue Royale,44000,FranÁa,Nantes
+10861,WHITC,30/01/1998,27/02/1998,R$ 14,93 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10862,LEHMS,30/01/1998,13/03/1998,R$ 53,23 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10863,HILAA,02/02/1998,02/03/1998,R$ 30,26 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+"10864,AROUT,02/02/1998,02/03/1998,R$ 3,04 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10865,QUICK,02/02/1998,16/02/1998,R$ 348,14 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10866,BERGS,03/02/1998,03/03/1998,R$ 109,11 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10867,LONEP,03/02/1998,17/03/1998,R$ 1,93 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+10868,QUEEN,04/02/1998,04/03/1998,R$ 191,27 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10869,SEVES,04/02/1998,04/03/1998,R$ 143,28 ,Seven Seas Imports,90 Wadhurst Rd.,OX15 4NB,Reino Unido,London
+10870,WOLZA,04/02/1998,04/03/1998,R$ 12,04 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+10871,BONAP,05/02/1998,05/03/1998,R$ 112,27 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10872,GODOS,05/02/1998,05/03/1998,R$ 175,32 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10873,WILMK,06/02/1998,06/03/1998,R$ 0,82 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+10874,GODOS,06/02/1998,06/03/1998,R$ 19,58 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10875,BERGS,06/02/1998,06/03/1998,R$ 32,37 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10876,BONAP,09/02/1998,09/03/1998,R$ 60,42 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10877,RICAR,09/02/1998,09/03/1998,R$ 38,06 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+10878,QUICK,10/02/1998,10/03/1998,R$ 46,69 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10879,WILMK,10/02/1998,10/03/1998,R$ 8,50 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+10880,FOLKO,10/02/1998,24/03/1998,R$ 88,01 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10881,CACTU,11/02/1998,11/03/1998,R$ 2,84 ,Cactus Comidas para llevar,Cerrito 333,1010,Argentina,Buenos Aires
+10882,SAVEA,11/02/1998,11/03/1998,R$ 23,10 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10883,LONEP,12/02/1998,12/03/1998,R$ 0,53 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+"10884,LETSS,12/02/1998,12/03/1998,R$ 90,97 ,Let's Stop N Shop,""87 Polk St. Suite 5"",94117,EUA,San Francisco"
+10885,SUPRD,12/02/1998,12/03/1998,R$ 5,64 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10886,HANAR,13/02/1998,13/03/1998,R$ 4,99 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10887,GALED,13/02/1998,13/03/1998,R$ 1,25 ,Galer°a del gastronÛmo,Rambla de Catalu§a, 23,8022,Espanha,Barcelona
+10888,GODOS,16/02/1998,16/03/1998,R$ 51,87 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10889,RATTC,16/02/1998,16/03/1998,R$ 280,61 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10890,DUMON,16/02/1998,16/03/1998,R$ 32,76 ,Du monde entier,67, rue des Cinquante Otages,44000,FranÁa,Nantes
+10891,LEHMS,17/02/1998,17/03/1998,R$ 20,37 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10892,MAISD,17/02/1998,17/03/1998,R$ 120,27 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+10893,KOENE,18/02/1998,18/03/1998,R$ 77,78 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+10894,SAVEA,18/02/1998,18/03/1998,R$ 116,13 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10895,ERNSH,18/02/1998,18/03/1998,R$ 162,75 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10896,MAISD,19/02/1998,19/03/1998,R$ 32,45 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+10897,HUNGO,19/02/1998,19/03/1998,R$ 603,54 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+"10898,OCEAN,20/02/1998,20/03/1998,R$ 1,27 ,OcÇano Atl†ntico Ltda.,""Ing. Gustavo Moncada 8585 Piso 20-A"",1010,Argentina,Buenos Aires"
+10899,LILAS,20/02/1998,20/03/1998,R$ 1,21 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10900,WELLI,20/02/1998,20/03/1998,R$ 1,66 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10901,HILAA,23/02/1998,23/03/1998,R$ 62,09 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10902,FOLKO,23/02/1998,23/03/1998,R$ 44,15 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10903,HANAR,24/02/1998,24/03/1998,R$ 36,71 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10904,WHITC,24/02/1998,24/03/1998,R$ 162,95 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+10905,WELLI,24/02/1998,24/03/1998,R$ 13,72 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10906,WOLZA,25/02/1998,11/03/1998,R$ 26,29 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+10907,SPECD,25/02/1998,25/03/1998,R$ 9,19 ,SpÇcialitÇs du monde,25, rue Lauriston,75016,FranÁa,Paris
+10908,REGGC,26/02/1998,26/03/1998,R$ 32,96 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10909,SANTG,26/02/1998,26/03/1998,R$ 53,05 ,SantÇ Gourmet,Erling Skakkes gate 78,4110,Noruega,Stavern
+10910,WILMK,26/02/1998,26/03/1998,R$ 38,11 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+10911,GODOS,26/02/1998,26/03/1998,R$ 38,19 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10912,HUNGO,26/02/1998,26/03/1998,R$ 580,91 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+10913,QUEEN,26/02/1998,26/03/1998,R$ 33,05 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10914,QUEEN,27/02/1998,27/03/1998,R$ 21,19 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10915,TORTU,27/02/1998,27/03/1998,R$ 3,51 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+10916,RANCH,27/02/1998,27/03/1998,R$ 63,77 ,Rancho grande,Av. del Libertador 900,1010,Argentina,Buenos Aires
+10917,ROMEY,02/03/1998,30/03/1998,R$ 8,29 ,Romero y tomillo,Gran V°a, 1,28001,Espanha,Madrid
+10918,BOTTM,02/03/1998,30/03/1998,R$ 48,83 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10919,LINOD,02/03/1998,30/03/1998,R$ 19,80 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+"10920,AROUT,03/03/1998,31/03/1998,R$ 29,61 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10921,VAFFE,03/03/1998,14/04/1998,R$ 176,48 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10922,HANAR,03/03/1998,31/03/1998,R$ 62,74 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10923,LAMAI,03/03/1998,14/04/1998,R$ 68,26 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+10924,BERGS,04/03/1998,01/04/1998,R$ 151,52 ,Berglunds snabbkîp,BerguvsvÑgen  8,S-958 22,SuÇcia,LuleÜ
+10925,HANAR,04/03/1998,01/04/1998,R$ 2,27 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10926,ANATR,04/03/1998,01/04/1998,R$ 39,92 ,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÛn 2222,05021,Mexico,Mexico D.F.
+10927,LACOR,05/03/1998,02/04/1998,R$ 19,79 ,La corne d'abondance,67, avenue de l'Europe,78000,FranÁa,Versailles
+10928,GALED,05/03/1998,02/04/1998,R$ 1,36 ,Galer°a del gastronÛmo,Rambla de Cataluna, 23,8022,Espanha,Barcelona
+10929,FRANK,05/03/1998,02/04/1998,R$ 33,93 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+10930,SUPRD,06/03/1998,17/04/1998,R$ 15,55 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+10931,RICSU,06/03/1998,20/03/1998,R$ 13,60 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10932,BONAP,06/03/1998,03/04/1998,R$ 134,64 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+"10933,ISLAT,06/03/1998,03/04/1998,R$ 54,15 ,Island Trading,""Garden House Crowther Way"",PO31 7PJ,Reino Unido,Cowes"
+10934,LEHMS,09/03/1998,06/04/1998,R$ 32,01 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+10935,WELLI,09/03/1998,06/04/1998,R$ 47,59 ,Wellington Importadora,Rua do Mercado, 12,08737-363,Brasil,Resende
+10936,GREAL,09/03/1998,06/04/1998,R$ 33,68 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+10937,CACTU,10/03/1998,24/03/1998,R$ 31,51 ,Cactus Comidas para llevar,Cerrito 333,1010,Argentina,Buenos Aires
+10938,QUICK,10/03/1998,07/04/1998,R$ 31,89 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10939,MAGAA,10/03/1998,07/04/1998,R$ 76,33 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10940,BONAP,11/03/1998,08/04/1998,R$ 19,77 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+10941,SAVEA,11/03/1998,08/04/1998,R$ 400,81 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10942,REGGC,11/03/1998,08/04/1998,R$ 17,95 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+10943,BSBEV,11/03/1998,08/04/1998,R$ 2,17 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10944,BOTTM,12/03/1998,26/03/1998,R$ 52,92 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10945,MORGK,12/03/1998,09/04/1998,R$ 10,22 ,Morgenstern Gesundkost,Heerstr. 22,04179,Alemanha,Leipzig
+10946,VAFFE,12/03/1998,09/04/1998,R$ 27,20 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10947,BSBEV,13/03/1998,10/04/1998,R$ 3,26 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+10948,GODOS,13/03/1998,10/04/1998,R$ 23,39 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+10949,BOTTM,13/03/1998,10/04/1998,R$ 74,44 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10950,MAGAA,16/03/1998,13/04/1998,R$ 2,50 ,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,24100,It†lia,Bergamo
+10951,RICSU,16/03/1998,27/04/1998,R$ 30,85 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+10952,ALFKI,16/03/1998,27/04/1998,R$ 40,42 ,Alfreds Futterkiste,Obere Str. 57,12209,Alemanha,Berlin
+"10953,AROUT,16/03/1998,30/03/1998,R$ 23,72 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+10954,LINOD,17/03/1998,28/04/1998,R$ 27,91 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+10955,FOLKO,17/03/1998,14/04/1998,R$ 3,26 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10956,BLAUS,17/03/1998,28/04/1998,R$ 44,65 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+10957,HILAA,18/03/1998,15/04/1998,R$ 105,36 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+"10958,OCEAN,18/03/1998,15/04/1998,R$ 49,56 ,OcÇano Atl†ntico Ltda.,""Ing. Gustavo Moncada 8585 Piso 20-A"",1010,Argentina,Buenos Aires"
+10959,GOURL,18/03/1998,29/04/1998,R$ 4,98 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+10960,HILAA,19/03/1998,02/04/1998,R$ 2,08 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10961,QUEEN,19/03/1998,16/04/1998,R$ 104,47 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+10962,QUICK,19/03/1998,16/04/1998,R$ 275,79 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10963,FURIB,19/03/1998,16/04/1998,R$ 2,70 ,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,1675,Portugal,Lisboa
+10964,SPECD,20/03/1998,17/04/1998,R$ 87,38 ,SpÇcialitÇs du monde,25, rue Lauriston,75016,FranÁa,Paris
+10965,OLDWO,20/03/1998,17/04/1998,R$ 144,38 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+10966,CHOPS,20/03/1998,17/04/1998,R$ 27,19 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+10967,TOMSP,23/03/1998,20/04/1998,R$ 62,22 ,Toms SpezialitÑten,Luisenstr. 48,44087,Alemanha,MÅnster
+10968,ERNSH,23/03/1998,20/04/1998,R$ 74,60 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10969,COMMI,23/03/1998,20/04/1998,R$ 0,21 ,ComÇrcio Mineiro,Av. dos Lus°adas, 23,05432-043,Brasil,S∆o Paulo
+10970,BOLID,24/03/1998,07/04/1998,R$ 16,16 ,BÛlido Comidas preparadas,C/ Araquil, 67,28023,Espanha,Madrid
+10971,FRANR,24/03/1998,21/04/1998,R$ 121,82 ,France restauration,54, rue Royale,44000,FranÁa,Nantes
+10972,LACOR,24/03/1998,21/04/1998,R$ 0,02 ,La corne d'abondance,67, avenue de l'Europe,78000,FranÁa,Versailles
+10973,LACOR,24/03/1998,21/04/1998,R$ 15,17 ,La corne d'abondance,67, avenue de l'Europe,78000,FranÁa,Versailles
+10974,SPLIR,25/03/1998,08/04/1998,R$ 12,96 ,Split Rail Beer & Ale,P.O. Box 555,82520,EUA,Lander
+10975,BOTTM,25/03/1998,22/04/1998,R$ 32,27 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10976,HILAA,25/03/1998,06/05/1998,R$ 37,97 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+10977,FOLKO,26/03/1998,23/04/1998,R$ 208,50 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10978,MAISD,26/03/1998,23/04/1998,R$ 32,82 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+10979,ERNSH,26/03/1998,23/04/1998,R$ 353,07 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10980,FOLKO,27/03/1998,08/05/1998,R$ 1,26 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10981,HANAR,27/03/1998,24/04/1998,R$ 193,37 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+10982,BOTTM,27/03/1998,24/04/1998,R$ 14,01 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+10983,SAVEA,27/03/1998,24/04/1998,R$ 657,54 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10984,SAVEA,30/03/1998,27/04/1998,R$ 211,22 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+10985,HUNGO,30/03/1998,27/04/1998,R$ 91,51 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+"10986,OCEAN,30/03/1998,27/04/1998,R$ 217,86 ,OcÇano Atl†ntico Ltda.,""Ing. Gustavo Moncada 8585 Piso 20-A"",1010,Argentina,Buenos Aires"
+10987,EASTC,31/03/1998,28/04/1998,R$ 185,48 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+10988,RATTC,31/03/1998,28/04/1998,R$ 61,14 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+10989,QUEDE,31/03/1998,28/04/1998,R$ 34,76 ,Que Del°cia,Rua da Panificadora, 12,02389-673,Brasil,Rio de Janeiro
+10990,ERNSH,01/04/1998,13/05/1998,R$ 117,61 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+10991,QUICK,01/04/1998,29/04/1998,R$ 38,51 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+"10992,THEBI,01/04/1998,29/04/1998,R$ 4,27 ,The Big Cheese,""89 Jefferson Way Suite 2"",97201,EUA,Portland"
+10993,FOLKO,01/04/1998,29/04/1998,R$ 8,81 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+10994,VAFFE,02/04/1998,16/04/1998,R$ 65,53 ,Vaffeljernet,Smagslõget 45,8200,Dinamarca,èrhus
+10995,PERIC,02/04/1998,30/04/1998,R$ 46,00 ,Pericles Comidas cl†sicas,Calle Dr. Jorge Cash 321,05033,Mexico,Mexico D.F.
+10996,QUICK,02/04/1998,30/04/1998,R$ 1,12 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+10997,LILAS,03/04/1998,15/05/1998,R$ 73,91 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+10998,WOLZA,03/04/1998,17/04/1998,R$ 20,31 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+10999,OTTIK,03/04/1998,01/05/1998,R$ 96,35 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+11000,RATTC,06/04/1998,04/05/1998,R$ 55,12 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
+11001,FOLKO,06/04/1998,04/05/1998,R$ 197,30 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+11002,SAVEA,06/04/1998,04/05/1998,R$ 141,16 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+11003,THECR,06/04/1998,04/05/1998,R$ 14,91 ,The Cracker Box,55 Grizzly Peak Rd.,59801,EUA,Butte
+11004,MAISD,07/04/1998,05/05/1998,R$ 44,84 ,Maison Dewey,Rue Joseph-Bens 532,B-1180,BÇlgica,Bruxelles
+11005,WILMK,07/04/1998,05/05/1998,R$ 0,75 ,Wilman Kala,Keskuskatu 45,21240,FinlÉndia,Helsinki
+11006,GREAL,07/04/1998,05/05/1998,R$ 25,19 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+11007,PRINI,08/04/1998,06/05/1998,R$ 202,24 ,Princesa Isabel Vinhos,Estrada da sa£de n. 58,1756,Portugal,Lisboa
+11008,ERNSH,08/04/1998,06/05/1998,R$ 79,46 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+11009,GODOS,08/04/1998,06/05/1998,R$ 59,11 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+11010,REGGC,09/04/1998,07/05/1998,R$ 28,71 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+11011,ALFKI,09/04/1998,07/05/1998,R$ 1,21 ,Alfreds Futterkiste,Obere Str. 57,12209,Alemanha,Berlin
+11012,FRANK,09/04/1998,23/04/1998,R$ 242,95 ,Frankenversand,Berliner Platz 43,80805,Alemanha,MÅnchen
+11013,ROMEY,09/04/1998,07/05/1998,R$ 32,99 ,Romero y tomillo,Gran V°a, 1,28001,Espanha,Madrid
+11014,LINOD,10/04/1998,08/05/1998,R$ 23,60 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+11015,SANTG,10/04/1998,24/04/1998,R$ 4,62 ,SantÇ Gourmet,Erling Skakkes gate 78,4110,Noruega,Stavern
+"11016,AROUT,10/04/1998,08/05/1998,R$ 33,80 ,Around the Horn,""Brook Farm Stratford St. Mary"",CO7 6JX,Reino Unido,Colchester"
+11017,ERNSH,13/04/1998,11/05/1998,R$ 754,26 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+11018,LONEP,13/04/1998,11/05/1998,R$ 11,65 ,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,97219,EUA,Portland
+11019,RANCH,13/04/1998,11/05/1998,R$ 3,17 ,Rancho grande,Av. del Libertador 900,1010,Argentina,Buenos Aires
+11020,OTTIK,14/04/1998,12/05/1998,R$ 43,30 ,Ottilies KÑseladen,Mehrheimerstr. 369,50739,Alemanha,Kîln
+11021,QUICK,14/04/1998,12/05/1998,R$ 297,18 ,QUICK-Stop,Taucherstra·e 10,01307,Alemanha,Cunewalde
+11022,HANAR,14/04/1998,12/05/1998,R$ 6,27 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+11023,BSBEV,14/04/1998,28/04/1998,R$ 123,83 ,B's Beverages,Fauntleroy Circus,EC2 5NT,Reino Unido,London
+11024,EASTC,15/04/1998,13/05/1998,R$ 74,36 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+11025,WARTH,15/04/1998,13/05/1998,R$ 29,17 ,Wartian Herkku,Torikatu 38,90110,FinlÉndia,Oulu
+11026,FRANS,15/04/1998,13/05/1998,R$ 47,09 ,Franchi S.p.A.,Via Monte Bianco 34,10100,It†lia,Torino
+11027,BOTTM,16/04/1998,14/05/1998,R$ 52,52 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+11028,KOENE,16/04/1998,14/05/1998,R$ 29,59 ,Kîniglich Essen,Maubelstr. 90,14776,Alemanha,Brandenburg
+11029,CHOPS,16/04/1998,14/05/1998,R$ 47,84 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+11030,SAVEA,17/04/1998,15/05/1998,R$ 830,75 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+11031,SAVEA,17/04/1998,15/05/1998,R$ 227,22 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+11032,WHITC,17/04/1998,15/05/1998,R$ 606,19 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+11033,RICSU,17/04/1998,15/05/1998,R$ 84,74 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+11034,OLDWO,20/04/1998,01/06/1998,R$ 40,32 ,Old World Delicatessen,2743 Bering St.,99508,EUA,Anchorage
+11035,SUPRD,20/04/1998,18/05/1998,R$ 0,17 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+11036,DRACD,20/04/1998,18/05/1998,R$ 149,47 ,Drachenblut Delikatessen,Walserweg 21,52066,Alemanha,Aachen
+11037,GODOS,21/04/1998,19/05/1998,R$ 3,20 ,Godos Cocina T°pica,C/ Romero, 33,41101,Espanha,Sevilla
+11038,SUPRD,21/04/1998,19/05/1998,R$ 29,59 ,Supràmes dÇlices,Boulevard Tirou, 255,B-6000,BÇlgica,Charleroi
+11039,LINOD,21/04/1998,19/05/1998,R$ 65,00 ,LINO-Delicateses,Ave. 5 de Mayo Porlamar,4980,Venezuela,I. de Margarita
+11040,GREAL,22/04/1998,20/05/1998,R$ 18,84 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+11041,CHOPS,22/04/1998,20/05/1998,R$ 48,22 ,Chop-suey Chinese,Hauptstr. 31,3012,Su°Áa,Bern
+11042,COMMI,22/04/1998,06/05/1998,R$ 29,99 ,ComÇrcio Mineiro,Av. dos Lus°adas, 23,05432-043,Brasil,S∆o Paulo
+11043,SPECD,22/04/1998,20/05/1998,R$ 8,80 ,SpÇcialitÇs du monde,25, rue Lauriston,75016,FranÁa,Paris
+11044,WOLZA,23/04/1998,21/05/1998,R$ 8,72 ,Wolski Zajazd,ul. Filtrowa 68,01-012,Polìnia,Warszawa
+11045,BOTTM,23/04/1998,21/05/1998,R$ 70,58 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+11046,WANDK,23/04/1998,21/05/1998,R$ 71,64 ,Die Wandernde Kuh,Adenauerallee 900,70563,Alemanha,Stuttgart
+11047,EASTC,24/04/1998,22/05/1998,R$ 46,62 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+11048,BOTTM,24/04/1998,22/05/1998,R$ 24,12 ,Bottom-Dollar Markets,23 Tsawassen Blvd.,T2F 8M4,Canad†,Tsawassen
+11049,GOURL,24/04/1998,22/05/1998,R$ 8,34 ,Gourmet Lanchonetes,Av. Brasil, 442,04876-786,Brasil,Campinas
+11050,FOLKO,27/04/1998,25/05/1998,R$ 59,41 ,Folk och fÑ HB,èkergatan 24,S-844 67,SuÇcia,BrÑcke
+11051,LAMAI,27/04/1998,25/05/1998,R$ 2,79 ,La maison d'Asie,1 rue Alsace-Lorraine,31000,FranÁa,Toulouse
+11052,HANAR,27/04/1998,25/05/1998,R$ 67,26 ,Hanari Carnes,Rua do PaÁo, 67,05454-876,Brasil,Rio de Janeiro
+11053,PICCO,27/04/1998,25/05/1998,R$ 53,05 ,Piccolo und mehr,Geislweg 14,5020,µustria,Salzburg
+11054,CACTU,28/04/1998,26/05/1998,R$ 0,33 ,Cactus Comidas para llevar,Cerrito 333,1010,Argentina,Buenos Aires
+11055,HILAA,28/04/1998,26/05/1998,R$ 120,92 ,HILARI‡N-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,5022,Venezuela,San CristÛbal
+11056,EASTC,28/04/1998,12/05/1998,R$ 278,96 ,Eastern Connection,35 King George,WX3 6FW,Reino Unido,London
+"11057,NORTS,29/04/1998,27/05/1998,R$ 4,13 ,North/South,""South House 300 Queensbridge"",SW7 1RZ,Reino Unido,London"
+11058,BLAUS,29/04/1998,27/05/1998,R$ 31,14 ,Blauer See Delikatessen,Forsterstr. 57,68306,Alemanha,Mannheim
+11059,RICAR,29/04/1998,10/06/1998,R$ 85,80 ,Ricardo Adocicados,Av. Copacabana, 267,02389-890,Brasil,Rio de Janeiro
+11060,FRANS,30/04/1998,28/05/1998,R$ 10,98 ,Franchi S.p.A.,Via Monte Bianco 34,10100,It†lia,Torino
+11061,GREAL,30/04/1998,11/06/1998,R$ 14,01 ,Great Lakes Food Market,2732 Baker Blvd.,97403,EUA,Eugene
+11062,REGGC,30/04/1998,28/05/1998,R$ 29,93 ,Reggiani Caseifici,Strada Provinciale 124,42100,It†lia,Reggio Emilia
+11063,HUNGO,30/04/1998,28/05/1998,R$ 81,73 ,Hungry Owl All-Night Grocers,8 Johnstown Road,,Irlanda,Cork
+11064,SAVEA,01/05/1998,29/05/1998,R$ 30,09 ,Save-a-lot Markets,187 Suffolk Ln.,83720,EUA,Boise
+11065,LILAS,01/05/1998,29/05/1998,R$ 12,91 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+11066,WHITC,01/05/1998,29/05/1998,R$ 44,72 ,White Clover Markets,1029 - 12th Ave. S.,98124,EUA,Seattle
+11067,DRACD,04/05/1998,18/05/1998,R$ 7,98 ,Drachenblut Delikatessen,Walserweg 21,52066,Alemanha,Aachen
+11068,QUEEN,04/05/1998,01/06/1998,R$ 81,75 ,Queen Cozinha,Alameda dos CanÖrios, 891,05487-020,Brasil,S∆o Paulo
+11069,TORTU,04/05/1998,01/06/1998,R$ 15,67 ,Tortuga Restaurante,Avda. Azteca 123,05033,Mexico,Mexico D.F.
+11070,LEHMS,05/05/1998,02/06/1998,R$ 136,00 ,Lehmanns Marktstand,Magazinweg 7,60528,Alemanha,Frankfurt a.M.
+11071,LILAS,05/05/1998,02/06/1998,R$ 0,93 ,LILA-Supermercado,Carrera 52 con Ave. Bol°var #65-98 Llano Largo,3508,Venezuela,Barquisimeto
+11072,ERNSH,05/05/1998,02/06/1998,R$ 258,64 ,Ernst Handel,Kirchgasse 6,8010,µustria,Graz
+11073,PERIC,05/05/1998,02/06/1998,R$ 24,95 ,Pericles Comidas cl†sicas,Calle Dr. Jorge Cash 321,05033,Mexico,Mexico D.F.
+11074,SIMOB,06/05/1998,03/06/1998,R$ 18,44 ,Simons bistro,Vinbëltet 34,1734,Dinamarca,Kõbenhavn
+11075,RICSU,06/05/1998,03/06/1998,R$ 6,19 ,Richter Supermarkt,Starenweg 5,1204,Su°Áa,Genäve
+11076,BONAP,06/05/1998,03/06/1998,R$ 38,28 ,Bon app',12, rue des Bouchers,13008,FranÁa,Marseille
+11077,RATTC,06/05/1998,03/06/1998,R$ 8,53 ,Rattlesnake Canyon Grocery,2817 Milton Dr.,87110,EUA,Albuquerque
